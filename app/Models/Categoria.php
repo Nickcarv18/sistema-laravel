@@ -11,7 +11,7 @@ class Categoria extends Model
 
     protected $table = 'categoria';
 
-    protected $primarykey = 'idcategoria';
+    protected $primaryKey = 'idcategoria';
 
     public $timestamps = false;
 
@@ -19,4 +19,5 @@ class Categoria extends Model
         'nome', 'descricao', 'condicao'
     ];
 
+    protected $guarded = [];
 }

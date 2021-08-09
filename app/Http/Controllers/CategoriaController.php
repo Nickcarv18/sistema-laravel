@@ -75,7 +75,7 @@ class CategoriaController extends Controller
         return Redirect::to('estoque/categoria');
     }
 
-    public function destoy($id)
+    public function destroy($id)
     {
         $categoria = Categoria::findOrFail($id);
         

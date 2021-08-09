@@ -47,15 +47,15 @@
               <li class="dropdown user user-menu">
                 <a href="#" class="dropdown-toggle" data-toggle="dropdown">
                   <small class="bg-red">Online</small>
-                  <span class="hidden-xs">Hugo Vasconcelos de Freitas</span>
+                  <span class="hidden-xs">Nicoli Carvalho</span>
                 </a>
                 <ul class="dropdown-menu">
                   <!-- User image -->
                   <li class="user-header">
                     
                     <p>
-                      www.hugocursos.com.br - Desenvolvimento de Sistemas
-                      <small>www.youtube.com/tutoriais01</small>
+                      Nicoli Carvalho - github.com/Nickcarv18
+                      <small>www.linkedin.com/in/nicoli-carvalho/</small>
                     </p>
                   </li>
                   
@@ -193,7 +193,7 @@
         <div class="pull-right hidden-xs">
           <b>Versão</b> 5.3.0
         </div>
-        <strong>Copyright &copy; 2015-2020 <a href="www.hugocursos.com.br">Q-Cursos</a>.</strong> Todos os direitos reservados.
+        <strong>Copyright &copy; 2015-2021 <a href="https://www.hugocursos.com.br">Q-Cursos</a>.</strong> Todos os direitos reservados.
       </footer>
 
       
