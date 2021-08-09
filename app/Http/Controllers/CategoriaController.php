@@ -33,7 +33,7 @@ class CategoriaController extends Controller
 
     public function create()
     {
-        
+        return view('estoque.categoria.create');
     }
 
     public function store(CategoriaFormRequest $request)
