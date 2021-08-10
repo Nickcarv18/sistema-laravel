@@ -25,7 +25,7 @@
       <header class="main-header">
 
         <!-- Logo -->
-        <a href="index2.html" class="logo">
+        <a href="/index.html" class="logo">
           <!-- mini logo for sidebar mini 50x50 pixels -->
           <span class="logo-mini"><b>HV</b>V</span>
           <!-- logo for regular state and mobile devices -->
@@ -91,8 +91,8 @@
                 <i class="fa fa-angle-left pull-right"></i>
               </a>
               <ul class="treeview-menu">
-                <li><a href="estoque/produto"><i class="fa fa-circle-o"></i> Produtos</a></li>
-                <li><a href="estoque/categoria"><i class="fa fa-circle-o"></i> Categorias</a></li>
+                <li><a href="/estoque/produto"><i class="fa fa-circle-o"></i> Produtos</a></li>
+                <li><a href="/estoque/categoria"><i class="fa fa-circle-o"></i> Categorias</a></li>
               </ul>
             </li>
             
@@ -114,8 +114,8 @@
                  <i class="fa fa-angle-left pull-right"></i>
               </a>
               <ul class="treeview-menu">
-                <li><a href="vendas/venda"><i class="fa fa-circle-o"></i> Vendas</a></li>
-                <li><a href="vendas/cliente"><i class="fa fa-circle-o"></i> Clientes</a></li>
+                <li><a href="/venda/venda"><i class="fa fa-circle-o"></i> Vendas</a></li>
+                <li><a href="/venda/cliente"><i class="fa fa-circle-o"></i> Clientes</a></li>
               </ul>
             </li>
                        
@@ -125,7 +125,7 @@
                 <i class="fa fa-angle-left pull-right"></i>
               </a>
               <ul class="treeview-menu">
-                <li><a href="configuracao/usuario"><i class="fa fa-circle-o"></i> Usuarios</a></li>
+                <li><a href="/configuracao/usuario"><i class="fa fa-circle-o"></i> Usuarios</a></li>
                 
               </ul>
             </li>
